@@ -94,11 +94,13 @@ The project includes:
 
 ---
 
+## Project Structure
+
 Titanic-Data-Analysis/
 
 ├── README.md
-└── Titanic_Analysis.ipynb
-
+├── Titanic_Analysis.ipynb
+└── train.csv
 ---
 
 ## Author
